@@ -131,11 +131,3 @@ button {
     font-family: 'Poppins', sans-serif;
 
 }
-
-.dot {
-    height: 100px;
-    width: px;
-    background-color: #4ca771;
-    border-radius: 50%;
-    display: inline-block;
-}
